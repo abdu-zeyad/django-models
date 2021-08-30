@@ -8,6 +8,6 @@ class SnackListView(ListView):
     model = Snacks
 
 
-class SnacksDetailView(DetailView):
+class SnackDetailView(DetailView):
     template_name = "snack_detail.html"
     model = Snacks

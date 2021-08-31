@@ -1,12 +1,5 @@
 from django.test import TestCase
-
-# Create your tests here.
-
-from django.test import TestCase
-
 from django.urls import reverse
-
-# Create your tests here.
 
 
 class SnacksTest(TestCase):
